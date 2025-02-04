@@ -1,16 +1,30 @@
-# tic_tac_toe
+# 🎮 Tic-Tac-Toe (Flutter & Dart)
+A simple and responsive Tic-Tac-Toe game built with Flutter & Dart that adapts to different screen sizes and orientations. The app also includes an exit confirmation prompt to prevent accidental exits.
+ <br></br>
+## Features
+✅ Responsive UI – Adapts to different screen sizes and orientations using MediaQuery.<br>
+✅ Exit Confirmation – Uses WillPopScope to prompt users before exiting the app.
 
-A new Flutter project.
+## Technologies Used
+ - Flutter (UI Framework)
+ - Dart (Programming Language)
 
-## Getting Started
+## App ScreenShots
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/c64c5421-ff97-48f0-94a1-8fb1a9422f04" width="300" />
+<img src="https://github.com/user-attachments/assets/18e912b9-822a-46df-b8af-62372fa25a66" width="300" />
+<img src="https://github.com/user-attachments/assets/fc3524a6-44a8-4753-afba-7cca43a9b13e" width="300" />
 
-A few resources to get you started if this is your first Flutter project:
+# Installation
+step-1. Clone the repository
+ - git clone https://github.com/zinzala/flutter-tic-tac-toe.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+step-2. Navigate to the project directory
+ - tic_tac_toe
+  
+step-3. Install dependencies
+ - flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+step-4. Run the app
+ - flutter run
+
